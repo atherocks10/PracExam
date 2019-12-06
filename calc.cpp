@@ -10,7 +10,7 @@ int main()
     cout<<"Press 2 to sub\n";
     cout<<"Press 3 to mul\n";
     cout<<"Press 4 to div\n";
-    cout<<"Enter choice/n";
+    cout<<"Enter choice\n";
     cin>>ch;
     switch(ch)
     {
