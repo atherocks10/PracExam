@@ -3,13 +3,13 @@ using namespace std;
 int main()
 {
     int a,b,ch;
-    cout<<"Enter two numbers/n";
+    cout<<"Enter two numbers\n";
     cin>>a;
     cin>>b;
-    cout<<"Press 1 to add/n";
-    cout<<"Press 2 to sub/n";
-    cout<<"Press 3 to mul/n";
-    cout<<"Press 4 to div/n";
+    cout<<"Press 1 to add\n";
+    cout<<"Press 2 to sub\n";
+    cout<<"Press 3 to mul\n";
+    cout<<"Press 4 to div\n";
     cout<<"Enter choice/n";
     cin>>ch;
     switch(ch)
